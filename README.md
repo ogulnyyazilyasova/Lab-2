@@ -3,4 +3,3 @@
 # Link for site!
 https://ogulnyyazilyasova.github.io/Lab-2/
 
-# new
